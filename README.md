@@ -1,4 +1,4 @@
-# Kavy Jethava — Portfolio
+# Aparna Tiwari — Portfolio
 
 A premium, dark-themed personal portfolio built with Next.js 15, React,
 TypeScript, Tailwind CSS, and Framer Motion.
